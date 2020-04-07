@@ -1,0 +1,33 @@
+.nav-link {
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+     &.nav-link-sm {
+         padding-left: 1rem !important;
+         padding-right: 1rem !important;
+     }
+}
+
+.card-img-overlay {
+    &.card-img-overlay-center {
+        margin-top: 76px;
+    }
+}
+
+.lead {
+    line-height: 1.2;
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.zw-brand-name {
+    font-size: 1.6rem;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    &.zw-brand-lower {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+}
